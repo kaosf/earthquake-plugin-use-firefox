@@ -26,6 +26,16 @@ Run the following command on earthquake.
 ⚡ :brf $yz
 ```
 
+## References
+
+### About `:of`
+
+[earthquake/lib/earthquake/commands.rb at 3b41d3cec2305431d06405a465dd85f08780cc7b · jugyo/earthquake](https://github.com/jugyo/earthquake/blob/3b41d3cec2305431d06405a465dd85f08780cc7b/lib/earthquake/commands.rb#L428-L439)
+
+### About `:brf`
+
+[earthquake/lib/earthquake/commands.rb at 3b41d3cec2305431d06405a465dd85f08780cc7b · jugyo/earthquake](https://github.com/jugyo/earthquake/blob/3b41d3cec2305431d06405a465dd85f08780cc7b/lib/earthquake/commands.rb#L443-L451)
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
